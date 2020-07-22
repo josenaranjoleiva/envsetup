@@ -1,12 +1,4 @@
 {
   "name": "env-setup",
-  "displayName": "env-setup",
-  "expo": {
-    "name": "env-setup",
-    "slug": "env-setup",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "displayName": "Environment setup"
 }
