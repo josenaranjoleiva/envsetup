@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./src/config/dump-env.js > ./src/config/__env__.js
